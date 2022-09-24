@@ -1,2 +1,5 @@
 # PROJECTO SPRING BOOT COM REACT
 
+> Backend Spring que serve APIs CRUD
+> BBDD MySQL
+
